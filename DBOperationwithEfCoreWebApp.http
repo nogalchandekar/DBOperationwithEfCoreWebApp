@@ -1,0 +1,6 @@
+@DBOperationwithEfCoreWebApp_HostAddress = http://localhost:5107
+
+GET {{DBOperationwithEfCoreWebApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
